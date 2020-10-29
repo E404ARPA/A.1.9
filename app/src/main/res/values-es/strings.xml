@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A.1.5</string>
+    <string name="order">ORDEN</string>
+    <string name="order_summary">SUMARIO</string>
+    <string name="plus">+</string>
+    <string name="_2">0</string>
+    <string name="min">-</string>
+    <string name="quantity">CANTIDAD</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Nata montada</string>
+    <string name="topping">EXTRAS</string>
+    <string name="enter_your_name">Introduce tu nombre</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A.1.5</string>
+    <string name="order">ORDER</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="plus">+</string>
+    <string name="_2">0</string>
+    <string name="min">-</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="topping">TOPPING</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="out" translatable="false"> A </string>
+</resources>
